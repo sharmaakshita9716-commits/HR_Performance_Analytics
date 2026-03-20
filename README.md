@@ -14,6 +14,3 @@ Python(Pandas,Seaborn,Matplotlib)
 Scikit-learn(Random Forest,SMOTE)
 Google colab
 
-Visuals:
-![Heatmap](Heatmap.png)
-![AttritionDrivers](Attrition_drivers.png)
