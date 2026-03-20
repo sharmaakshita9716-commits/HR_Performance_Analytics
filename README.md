@@ -15,5 +15,5 @@ Scikit-learn(Random Forest,SMOTE)
 Google colab
 
 Visuals:
-![heatmap](heatmap.png)
-![AttritionDrivers](attrition_drivers.png)
+![Heatmap](Heatmap.png)
+![AttritionDrivers](Attrition_drivers.png)
